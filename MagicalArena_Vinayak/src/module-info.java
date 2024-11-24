@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module MagicalArena_Vinayak {
-}
